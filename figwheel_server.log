@@ -1,0 +1,73 @@
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.227 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.229 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Wrong number of args (3) passed to rf-cons.core/h-http at line 99 /home/josh/_/0-passive-income/pipegen/apps/rf-cons/src/cljs/rf_cons/core.cljs
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.236 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.203 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var rf-cons.core/db at line 150 /home/josh/_/0-passive-income/pipegen/apps/rf-cons/src/cljs/rf_cons/core.cljs
+WARNING: Use of undeclared Var rf-cons.core/gen at line 152 /home/josh/_/0-passive-income/pipegen/apps/rf-cons/src/cljs/rf_cons/core.cljs
+WARNING: Use of undeclared Var rf-cons.core/args at line 152 /home/josh/_/0-passive-income/pipegen/apps/rf-cons/src/cljs/rf_cons/core.cljs
+WARNING: Use of undeclared Var rf-cons.core/rf-handler-vars at line 171 /home/josh/_/0-passive-income/pipegen/apps/rf-cons/src/cljs/rf_cons/core.cljs
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.296 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var rf-cons.core/gen at line 153 /home/josh/_/0-passive-income/pipegen/apps/rf-cons/src/cljs/rf_cons/core.cljs
+WARNING: Use of undeclared Var rf-cons.core/rf-handler-vars at line 172 /home/josh/_/0-passive-income/pipegen/apps/rf-cons/src/cljs/rf_cons/core.cljs
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var rf-cons.core/rf-handler-vars at line 172 /home/josh/_/0-passive-income/pipegen/apps/rf-cons/src/cljs/rf_cons/core.cljs
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out/rf_cons/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.195 seconds.[0m
